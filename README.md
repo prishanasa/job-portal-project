@@ -1,1 +1,1 @@
-# MERN Stack Project
+# Job Portal - MERN Stack Project
