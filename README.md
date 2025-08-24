@@ -1,1 +1,2 @@
 # Job Portal - MERN Stack Project
+THIS IS A MERN STACK BASED PROJECT
