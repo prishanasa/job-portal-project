@@ -1,2 +1,2 @@
 # Job Portal - MERN Stack Project
-This project is used as a job portal
+This is a job portal project using mern stack
