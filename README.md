@@ -1,3 +1,4 @@
 # Job Portal - MERN Stack Project
 This is a job portal project using mern stack
 MongoDb,React
+The MERN stack is a popular collection of JavaScript-based technologies used to build full-stack web applications. It is an acronym for its four core components: MongoDB, Express.js, React, and Node.js.Because every layer of the framework uses JavaScript, developers can build both the user-facing frontend and the server backend using a single programming language.Core ComponentsThe stack is divided into three functional tiers that work together seamlessly:MongoDB (Database): A NoSQL, document-oriented database that stores application data in flexible, JSON-like formats.Express.js (Backend Framework): A lightweight web framework running inside Node.js that handles server routing, HTTP requests, and API creation.
